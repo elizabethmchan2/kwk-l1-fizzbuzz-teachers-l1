@@ -3,8 +3,10 @@ def fizzbuzz(int)
     return "Fizz" # Go fizz
   elsif int % 5 == 0 # if the number int is divisible by 3
     return "Buzz" # Go fizz
-  else int % 3 == 0 and int % 5 == 0# if the number int is divisible by 3
+  elsif int % 3 == 0 and int % 5 == 0# if the number int is divisible by 3
     return "FizzBuzz" # Go fizz
+  else 
+    return 
   end
 end
  
