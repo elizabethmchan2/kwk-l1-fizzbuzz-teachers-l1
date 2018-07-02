@@ -7,6 +7,7 @@ def fizzbuzz(int)
   end
   if int.empty?
     
+  end
 end
  
 # fizzbuzz(3) # => You should see a return of "Fizz"
