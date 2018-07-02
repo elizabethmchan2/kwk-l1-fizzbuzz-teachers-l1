@@ -11,5 +11,5 @@ def fizzbuzz(int)
 end
  
 puts fizzbuzz(3) # => You should see a return of "Fizz"
-puts fizzbuzz(5) # => You should see a return of nil
-puts fizzbuzz(15)  # => You should get an ArgumentError
+# puts fizzbuzz(5) # => You should see a return of nil
+# puts fizzbuzz(15)  # => You should get an ArgumentError
